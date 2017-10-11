@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 This is the start of my website, which would be use to record my notes on Coursera, Udacity course and also NMR books.
 
+$$a^2 + b^2 = c^2$$
 
 {% highlight ruby %}
 def print_hi(name)
