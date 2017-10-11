@@ -3,6 +3,7 @@ layout: post
 title:  "Launching Day"
 date:   2017-10-11 11:22:17 -0700
 categories: jekyll update
+use math: true
 ---
 This is the start of my website, which would be use to record my notes on Coursera, Udacity course and also NMR books.
 
